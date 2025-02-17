@@ -2,7 +2,7 @@
 
 I'm an Integrated Mtech software engineering student who is passionate about coding , contributing to open source projects, and building community. 
 
-- Skills :  DATA SCIENCE / PYTHON / JAVA / R  / HTML / CSS /Software Testing
+- Skills :  DATA SCIENCE / PYTHON / R  / HTML / CSS 
 
 - 🌱 I’m currently learning  Latest tehnologies and improving my coding knowledge
 - 💞️ I’m looking to collaborate on Open source projects
